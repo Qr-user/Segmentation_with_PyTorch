@@ -1,0 +1,2 @@
+Model,mIoU,Dice_F1,Pixel_Acc,Boundary_F1,Params_M,Infer_ms
+DeepLabV3Plus,0.2787,0.3063,0.9471,0.7142,45.68,273.0

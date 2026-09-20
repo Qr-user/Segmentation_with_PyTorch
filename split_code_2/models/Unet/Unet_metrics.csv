@@ -1,0 +1,2 @@
+Model,mIoU,Dice_F1,Pixel_Acc,Boundary_F1,Params_M,Infer_ms
+Unet,0.2523,0.2795,0.9249,0.6538,51.52,233.31

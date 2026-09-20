@@ -1,0 +1,2 @@
+Model,mIoU,Dice_F1,Pixel_Acc,Boundary_F1,Params_M,Infer_ms
+PSPNet,0.2686,0.2982,0.929,0.641,43.4,284.24
